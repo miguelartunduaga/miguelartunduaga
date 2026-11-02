@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-artunduaga-pe%C3%B1a-b41603182/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" /></a>
+   <a href="https://www.linkedin.com/in/miguel-artunduaga/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/Bogot%C3%A1-Colombia-FCD116?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Abierto%20a-nuevos%20proyectos-2ea44f?style=for-the-badge" />
 </p>
